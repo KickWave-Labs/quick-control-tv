@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ryu1kn.partial-diff",
+    "donjayamanne.githistory",
+    "yzhang.markdown-all-in-one",
+    "amoosbr.markdown-imsize"
+  ]
+}
